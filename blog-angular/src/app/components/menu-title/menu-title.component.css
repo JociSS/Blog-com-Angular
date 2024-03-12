@@ -9,18 +9,24 @@ flex-direction: column;
 align-items: center;
 justify-content: center;
 font-size: 58px;
+margin-bottom: -10px;
 }
 .containe__menu-title > h2{
   position: relative;
-  top: -8px;
-  left: 399px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   font-size: 37px;
+  margin-bottom: -7px;
 }
 .containe__menu-title > p{
   margin-bottom: 10px;
   position: relative;
-  top: -12px;
-  left: 492px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   font-size: 17px;
 }
 

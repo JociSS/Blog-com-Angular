@@ -29,6 +29,7 @@
 .bigcard_description > p > a {
   color: grey;
   font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
 
 .bigCard_photo > img{
@@ -41,3 +42,5 @@
     min-width: 400px;
   }
 }
+
+

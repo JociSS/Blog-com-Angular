@@ -1,6 +1,12 @@
+.containe__menu-title {
+  background-image: url('https://www.javachocolates.com.br/wp-content/uploads/2024/03/BLOG-1200x675.jpg.webp'); /* Substitua 'caminho/para/sua/imagem.jpg' pelo caminho da sua imagem */
+  background-size: cover; /* Garante que a imagem cubra todo o contêiner */
+  background-position: center; /* Centraliza a imagem no contêiner */
+}
 .containe__menu-title{
-  color: rgb(36, 18, 1);
-  font-family:Verdana, Geneva, Tahoma, sans-serif
+  color: rgb(255, 255, 255);
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  padding: 50px;
 }
 .containe__menu-title > h1{
 margin-top: 10px;

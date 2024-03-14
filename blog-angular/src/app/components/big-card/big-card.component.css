@@ -36,7 +36,7 @@
   width: 100%;
   height: auto;
   @media(min-width: 700px) {
-    min-width: 200px;
+    min-width: 400px;
   }
   @media(min-width: 1000px) {
     min-width: 400px;
